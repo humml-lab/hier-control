@@ -1,0 +1,7 @@
+neuro_preprocessing/*preprocessed*
+neuro_preprocessing/multi_task_double_pendulum
+neuro_preprocessing/multi_task_lorenz63
+neuro_preprocessing/mc_multitask
+figures/
+__pycache__
+.vscode/
